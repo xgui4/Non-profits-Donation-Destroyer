@@ -17,7 +17,7 @@ You're welcome.
 
 # How to Install
 
-Step 1) Download the extension [from the releases page]([url](https://github.com/BryanLunduke/Wikipedia-Donation-Destroyer/releases)) and extract the archive somewhere (or download the individual source files from the repository).
+Step 1) Download the extension [from the releases page](https://github.com/BryanLunduke/Wikipedia-Donation-Destroyer/releases) and extract the archive somewhere (or download the individual source files from the repository).
 
 <img width="726" height="436" alt="Screenshot 2026-01-04 at 10 49 07 AM" src="https://github.com/user-attachments/assets/73bcaae4-8fdc-45cf-afd3-3cee73343f0c" />
 
