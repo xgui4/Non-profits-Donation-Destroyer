@@ -22,15 +22,8 @@ You're welcome.
 
 ## How to Install
 
-### For Google Chrome / Chromium / Brave / Edge
+<img width="965" height="133" alt="Screenshot 2026-01-04 at 10 51 45 AM" src="https://github.com/user-attachments/assets/4247cb8e-f671-4e32-bf4e-9021bc77fb27" />
 
 1. Download the extension source files.
 2. Within Chrome, go to `chrome://extensions/` and enable **"Developer mode"**.
 3. Click **"Load unpacked"** and select the extension folder.
-
-### For Firefox
-
-1. Download the extension source files.
-2. Within Firefox, go to `about:debugging#/runtime/this-firefox`.
-3. Click **"Load Temporary Add-on..."**.
-4. Select the `manifest.firefox.json` file from the extension folder.

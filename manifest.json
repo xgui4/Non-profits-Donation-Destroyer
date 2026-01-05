@@ -15,14 +15,12 @@
   "content_scripts": [
     {
       "matches": ["https://*.linuxfoundation.org/*"],
-      "css": ["styles.css"],
-      "js": ["wdd_common.js", "wdd_linuxfoundation.js"],
+      "js": ["wdd_linuxfoundation.js"],
       "all_frames": true
     },
     {
       "matches": ["https://*.wikipedia.org/*"],
-      "css": ["styles.css"],
-      "js": ["wdd_common.js", "wdd_wikipedia.js"],
+      "js": ["wdd_wikipedia.js"],
       "all_frames": true
     },
     {
@@ -30,16 +28,14 @@
         "https://*.mozilla.org/*",
         "https://*.mozilla.com/*"
       ],
-      "css": ["styles.css"],
-      "js": ["wdd_common.js", "wdd_mozilla.js"],
+      "js": ["wdd_mozilla.js"],
       "all_frames": true
-    },
+    },    
     {
       "matches": [
         "https://www.gnome.org/*"
       ],
-      "css": ["styles.css"],
-      "js": ["wdd_common.js", "wdd_gnome.js"],
+      "js": ["wdd_gnome.js"],
       "all_frames": true
     }
   ]
