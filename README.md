@@ -1,4 +1,4 @@
-# Wikipedia-Donation-Destroyer
+# Non-profits Donation-Destroyer++
 
 This is a simple Google Chrome Extension which does 3 simple things:
 
@@ -8,7 +8,7 @@ This is a simple Google Chrome Extension which does 3 simple things:
 
 <img width="1240" height="383" alt="Screenshot 2026-01-04 at 11 41 36 AM" src="https://github.com/user-attachments/assets/1964f3bb-f5ec-4361-8ed0-8eaf71c70804" />
 
-The Wikipedia Donation Destroyer will also display financial data for other Tech Foundations if you are on their websites.
+The "Not-profits" Donation Destroyer will also display financial data for other Tech Foundations if you are on their websites.
 
 Just for good measure.
 
@@ -37,5 +37,3 @@ Boom!  Done!  If you don't like the extension, you can remove or disable it from
 Follow the instructions for installing within Chrome, except navigate to "[about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox)" and click "Load Temporary Add-on...".
 
 <img width="1153" height="350" alt="Screenshot 2026-01-06 at 12 02 38 PM" src="https://github.com/user-attachments/assets/1f2e1f21-54d2-47b5-aaaf-aa6faa686558" />
-
-
