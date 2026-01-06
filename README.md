@@ -1,4 +1,4 @@
-# Non-profits Donation-Destroyer++
+# Wikipedia Donation Destroyer
 
 This is a simple browser extension which does 3 things (and 3 things only)
 
