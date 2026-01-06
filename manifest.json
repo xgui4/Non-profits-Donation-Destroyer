@@ -14,6 +14,9 @@
   },
   "host_permissions": [
     "https://*.wikipedia.org/*",
+    "https://*.torproject.org/*",
+    "https://*.archive.org/*",
+    "https://*.python.org/*",
     "https://*.linuxfoundation.org/*",
     "https://*.mozilla.org/*",
     "https://*.mozilla.com/*",
@@ -26,6 +29,21 @@
     {
       "matches": ["https://*.linuxfoundation.org/*"],
       "js": ["wdd_linuxfoundation.js"],
+      "all_frames": true
+    },
+    {
+      "matches": ["https://*.archive.org/*"],
+      "js": ["wdd_internetarchive.js"],
+      "all_frames": true
+    },
+    {
+      "matches": ["https://*.python.org/*"],
+      "js": ["wdd_python.js"],
+      "all_frames": true
+    },
+    {
+      "matches": ["https://*.torproject.org/*"],
+      "js": ["wdd_tor.js"],
       "all_frames": true
     },
     {
