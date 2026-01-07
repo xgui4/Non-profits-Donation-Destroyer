@@ -44,4 +44,4 @@ Boom!  Done!  If you don't like the extension, you can remove or disable it from
 2. Within Firefox, go to `about:debugging#/runtime/this-firefox`.
 <img width="1153" height="350" alt="Screenshot 2026-01-06 at 12 02 38 PM" src="https://github.com/user-attachments/assets/1f2e1f21-54d2-47b5-aaaf-aa6faa686558" />
 3. Click **"Load Temporary Add-on..."**.
-5. Boom!  Done!  If you don't like the extension, you can remove or disable it from [chrome://extensions/](chrome://extensions/).
+4. Boom!  Done!  If you don't like the extension, you can remove or disable it from [chrome://extensions/](chrome://extensions/).

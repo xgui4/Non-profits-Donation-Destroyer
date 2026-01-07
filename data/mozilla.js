@@ -1,4 +1,3 @@
-
 const CONFIG = {
   financials: {
     title: 'Mozilla Financials (As of 2024)',
@@ -12,3 +11,7 @@ const CONFIG = {
     ]
   }
 }
+
+NPDD.createOverlay(
+  CONFIG.financials
+)

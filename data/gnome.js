@@ -11,3 +11,7 @@ const CONFIG = {
     ]
   }
 }
+
+NPDD.createOverlay(
+  CONFIG.financials
+)
