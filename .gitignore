@@ -1,2 +1,3 @@
 // Firefox Addon
 *.xpi
+web-ext-artifacts/
